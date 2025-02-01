@@ -8,5 +8,11 @@ let amigos_participantes = [];
 function adicionarAmigo() {
     let inputNome = document.getElementById("amigo");
     let NomeAmigo = inputNome.value.trim(); // Remove espaços extras
-    console.log(NomeAmigo);
+    
+    if (NomeAmigo != amigos_participantes) {
+        amigos_participantes.push(NomeAmigo); // Adiciona ao array
+        inputNome.value = ""; // Limpa o inputNome
+    } else {
+        alert("Este nome já está na lista, por favor digite outro nome!");
+    }
 }
