@@ -17,7 +17,7 @@ function adicionarAmigo() {
     } else {
         amigos_participantes.push(inputNome); // Adiciona ao array
         atualizarLista(); // Atualiza a exibição
-        inputNome.value = ""; // Limpa o inputNome
+        limparCampo(); // Limpa o inputNome
     }
 }
 
@@ -32,4 +32,9 @@ function atualizarLista() {
         li.textContent = item;
         listaNomes.appendChild(li);
     });
+}
+
+function limparCampo() {
+    inputNome = document.getElementById('amigo');
+    inputNome.value = '';
 }
