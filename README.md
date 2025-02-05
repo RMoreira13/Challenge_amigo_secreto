@@ -3,9 +3,7 @@
   <h2>O projeto tem a finalidade de sortar um nome para a brincadeira do amigo secreto. O usuário deve inserir os nomes dos participantes e depois cada participante irá sortear um nome que será seu amigo secreto.</h2>
   <h5>O presente projeto trata-se de um desafio da Alura e o programa ONE para estimular a lógica de programação para resolver o problema com o que foi estudado durante o curso.</h5><br>
 
-  ![imagem principal do jogo amigo secreto](![amigo_secreto](https://github.com/user-attachments/assets/6ac92a17-e6e1-455d-a393-cc15785f6eb1)
-)
-)
+
 
 <h2>📌 Índice
 📜 Sobre
@@ -24,6 +22,7 @@
 3 - Não há limite para adicionar participantes.<br>
 4 - Conforme um nome sejá sorteado, ele é retirado da lista.<br>
 5 - Não é possível sortear um nome na lista se a lista estiver vazia.<br>
+![amigo_secreto](https://github.com/user-attachments/assets/75dee6d6-0cf3-48a9-8b0a-451e5d4196e5)
 
 <h2>🚀 Tecnologias</h2>
 
