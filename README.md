@@ -3,7 +3,8 @@
   <h2>O projeto tem a finalidade de sortar um nome para a brincadeira do amigo secreto. O usuário deve inserir os nomes dos participantes e depois cada participante irá sortear um nome que será seu amigo secreto.</h2>
   <h5>O presente projeto trata-se de um desafio da Alura e o programa ONE para estimular a lógica de programação para resolver o problema com o que foi estudado durante o curso.</h5><br>
 
-  ![imagem principal do jogo amigo secreto]()
+  ![imagem principal do jogo amigo secreto](![amigo_secreto](https://github.com/user-attachments/assets/6ac92a17-e6e1-455d-a393-cc15785f6eb1)
+)
 )
 
 <h2>📌 Índice
@@ -34,7 +35,7 @@
 
 <h2>🛠 Como Usar</h2>
 
-1 - Abra o link para ter acesso ao jogo  clicando em <a href = "http://127.0.0.1:5501/"> Amigo Secreto </a><br>
+1 - Abra o link para ter acesso ao jogo  clicando em <a href = "https://challenge-amigo-secreto-ivory.vercel.app/"> Amigo Secreto </a><br>
 2 - No campo "Digite um nome" deverá ser preenchido com o nome do participante.<br>
 3 - Após preencher o nome do participante, deverá clicar em "Adicionar".<br>
 4 - O nome adicionado será exibido em uma lista abaixo do campo onde foi preenchido o nome do participante.<br>
